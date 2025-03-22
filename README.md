@@ -1,5 +1,5 @@
 
-Aim:
+###Aim:
  
 To write a python program using OpenCV to capture the image from the web camera and do the following image manipulations.
 i) Write the frame as JPG 
@@ -26,7 +26,6 @@ Display the frame using the imshow().
 Divide the frame into halves and assign the smaller frame and Rotate the frame using the cv2.rotate().
 
 ## Program:
-``` Python
 ### Developed By:SANDHIYA R
 ### Register No:212223240146
 
@@ -109,7 +108,7 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 
-
+```
 ## Output
 
 ### i) Write the frame as JPG image
